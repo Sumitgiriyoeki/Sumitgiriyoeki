@@ -6,8 +6,8 @@ I'm a Full Stack Developer with experience in building scalable web applications
 
 - 🔭 Currently working on Full Stack Development
 - 🌱 Learning Azure & Microservices
-- 💬 Ask me about .NET, React, Angular, TypeScript
-- 📫 Reach me: your-email@example.com
+- 💬 Ask me about .NET, React, Angular, TypeScript,IIS,Docker,Javascript,C#
+- 📫 Reach me: sumitgiri15434@gmail.com
 
 ## 🚀 Tech Stack
 
